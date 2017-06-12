@@ -8,7 +8,7 @@
 [![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=mwaterfall&url=https://github.com/mwaterfall/MWPhotoBrowser&title=MWPhotoBrowser&language=&tags=github&category=software)
 
 
-## 升级MBProgressHUD到1.0.0，SDWebImage到4.0.0，使用方法:
+## 升级MBProgressHUD到1.0.0，DACircularProgress到2.3.1，SDWebImage到4.0.0，使用方法:
 
 ```pod "MWPhotoBrowser", :podspec =>'https://raw.githubusercontent.com/y500/MWPhotoBrowser/master/MWPhotoBrowser.podspec'```
 
