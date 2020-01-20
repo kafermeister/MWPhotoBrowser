@@ -14,7 +14,7 @@
 
 // Declare private methods of browser
 @interface MWPhotoBrowser () {
-    
+    @protected
 	// Data
     NSUInteger _photoCount;
     NSMutableArray *_photos;
